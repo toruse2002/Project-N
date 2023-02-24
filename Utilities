@@ -1,0 +1,29 @@
+Network Manager:
+-Firewall
+-DMZ
+-Default Rules(presets)
+-Routing
+-Security
+-SSL conection force
+-Subnetting/VLSM cascade builder
+-NAT
+-VPN conf
+-Wifi Settings
+-WPS/pbc
+-Filter MAC
+-Band conf and streending
+-Sharing services
+-LAN conf
+-VoIP
+-Status view
+-webDomain filter
+-LAN filter access
+-DNS, DDNS settings
+-UPnP
+-Port settings
+-Overview Panel
+-Logs
+-Terminal
+-Wan control access router config via VPN and codes
+-Proxy settings
+-pass encryption settings
