@@ -27,3 +27,6 @@ Network Manager:
 -Wan control access router config via VPN and codes
 -Proxy settings
 -pass encryption settings
+-Netwrok mapper and attacks, intrussion, CVE LAN checker
+-Clients endpoints virus checker connected to router databse CVE
+-LAN policies panel
