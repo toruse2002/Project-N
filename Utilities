@@ -31,3 +31,5 @@ Network Manager:
 -Clients endpoints virus checker connected to router databse CVE
 -LAN policies panel
 -LAN panel conn over ssl
+-Alerts
+-Device monitorization rules via snmp
